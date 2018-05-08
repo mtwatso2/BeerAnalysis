@@ -1,0 +1,92 @@
+---
+title: "Final_Project"
+author: "Kyle Calcagno, Daehyun Suk, Matt Watson"
+date: "5/4/2018"
+output: html_document
+---
+
+```{r, LoadData, message=FALSE}
+library(readr)
+beers = read_csv("beers.csv")
+
+
+categories = read_csv("categories.csv")
+
+
+styles = read_csv("styles.csv")
+
+
+breweries = read_csv("breweries.csv")
+
+
+brewerie_geocode = read_csv("breweries_geocode.csv")
+
+```
+
+```{r, RemoveColumns}
+beers = beers[ , -c(7:12)]
+```
+
+```{r, RemovingMissingId}
+beers = beers[ ! beers$id %in% NA, ]
+```
+
+
+```{r, FixCatId}
+beers = beers[ ! beers$cat_id %in% c(0, -1), ]  #Remove cat_id of 0 and -1
+#dim(beers)               #4398 Variables Remain
+
+```
+
+```{r, FixBreweryId}
+beers = beers[ ! beers$brewery_id %in% c(1416, 1417, 1419, 1420, 1421, 1422, 1423), ]
+```
+
+
+```{r, AddStyleName}
+colnames(styles)[colnames(styles) == "id"] = "style_id"
+
+styles_name = subset(styles, select = c(style_id, style_name))
+
+beers = merge(beers, styles_name, by = "style_id", all =TRUE)
+
+```
+
+```{r, AddCountry}
+colnames(breweries)[colnames(breweries) == "id"] = "brewery_id"
+
+breweries_countries = subset(breweries, select = c(brewery_id, country))
+
+beers = merge(beers, breweries_countries, by = "brewery_id", all = TRUE)
+
+```
+
+```{r, AddCatName}
+colnames(categories)[colnames(categories) == "id"] = "cat_id"
+
+categories_names = subset(categories, select = c(cat_id, cat_name))
+
+beers = merge(beers, categories_names, by = "cat_id", all = TRUE)
+
+```
+
+
+```{r, AddLatLong}
+latlong = subset(brewerie_geocode, select = c(brewery_id, latitude, longitude))
+beers = merge(beers, latlong, by = "brewery_id", all = TRUE)
+
+```
+
+```{r, RemoveNAs}
+beers = beers[ ! beers$id %in% NA, ]
+beers = beers[ ! beers$latitude %in% NA, ]
+
+```
+
+
+
+```{r, CreateNewData}
+write.csv(beers, "beers_cleaned.csv")
+
+```
+
