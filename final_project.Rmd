@@ -2,7 +2,9 @@
 title: "Final_Project"
 author: "Kyle Calcagno, Daehyun Suk, Matt Watson"
 date: "5/4/2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r, LoadData, message=FALSE}

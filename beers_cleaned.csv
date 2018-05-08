@@ -23,7 +23,7 @@
 "22",4,7,90,3998,"Bock Beer",5.9,"Traditional German-Style Bock","Norway","German Lager",59.7451,10.2135
 "23",4,8,95,2666,"Classic Special Brew",0,"American-Style Lager","Norway","North American Lager",59.7451,10.2135
 "24",4,7,77,3999,"Genuine Pilsner",5.5,"German-Style Pilsener","Norway","German Lager",59.7451,10.2135
-"25",4,3,29,3997,"Jule<U+D00C><U+009F>l",5.9,"Dark American-Belgo-Style Ale","Norway","North American Ale",59.7451,10.2135
+"25",4,3,29,3997,"JuleÌÄåül",5.9,"Dark American-Belgo-Style Ale","Norway","North American Ale",59.7451,10.2135
 "26",4,8,95,4000,"Gull Classic",5.5,"American-Style Lager","Norway","North American Lager",59.7451,10.2135
 "27",5,3,37,4253,"Leffe Blonde",6.6,"Golden or Blonde Ale","Belgium","North American Ale",50.2606,4.9122
 "28",6,3,37,3912,"6",6,"Golden or Blonde Ale","Belgium","North American Ale",50.3093,4.7646
@@ -203,16 +203,16 @@
 "212",45,8,95,3790,"Mountain Lager",4.5,"American-Style Lager","United States","North American Lager",40.2659,-76.8753
 "213",45,3,26,3792,"Purist Pale Ale",4.9,"American-Style Pale Ale","United States","North American Ale",40.2659,-76.8753
 "214",45,3,42,3795,"Susquehanna Stout",4.6,"American-Style Stout","United States","North American Ale",40.2659,-76.8753
-"215",46,3,38,2780,"Adler Br<U+D00C>_u Downtown Brown",0,"American-Style Brown Ale","United States","North American Ale",44.2619,-88.4154
-"216",46,4,50,2782,"Adler Br<U+D00C>_u Weiss",0,"South German-Style Hefeweizen","United States","German Ale",44.2619,-88.4154
-"217",46,8,95,1330,"Adler Br<U+D00C>_u Eagle Lager",0,"American-Style Lager","United States","North American Lager",44.2619,-88.4154
-"218",46,1,13,1329,"Adler Br<U+D00C>_u Winter Ale",0,"Old Ale","United States","British Ale",44.2619,-88.4154
-"219",46,7,90,1328,"Adler Br<U+D00C>_u Doppel Bock Beer",0,"Traditional German-Style Bock","United States","German Lager",44.2619,-88.4154
-"220",46,3,33,2777,"Adler Br<U+D00C>_u Tailgate Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",44.2619,-88.4154
-"221",46,3,42,2775,"Adler Br<U+D00C>_u Oatmeal Stout",0,"American-Style Stout","United States","North American Ale",44.2619,-88.4154
-"222",46,3,33,2956,"Adler Br<U+D00C>_u Holiday Ale",0,"American-Style Amber/Red Ale","United States","North American Ale",44.2619,-88.4154
-"223",46,2,25,2776,"Adler Br<U+D00C>_u Classic Porter",0,"Porter","United States","Irish Ale",44.2619,-88.4154
-"224",46,3,26,2781,"Adler Br<U+D00C>_u Fox Classic River Ale",0,"American-Style Pale Ale","United States","North American Ale",44.2619,-88.4154
+"215",46,3,38,2780,"Adler BrÌÄå_u Downtown Brown",0,"American-Style Brown Ale","United States","North American Ale",44.2619,-88.4154
+"216",46,4,50,2782,"Adler BrÌÄå_u Weiss",0,"South German-Style Hefeweizen","United States","German Ale",44.2619,-88.4154
+"217",46,8,95,1330,"Adler BrÌÄå_u Eagle Lager",0,"American-Style Lager","United States","North American Lager",44.2619,-88.4154
+"218",46,1,13,1329,"Adler BrÌÄå_u Winter Ale",0,"Old Ale","United States","British Ale",44.2619,-88.4154
+"219",46,7,90,1328,"Adler BrÌÄå_u Doppel Bock Beer",0,"Traditional German-Style Bock","United States","German Lager",44.2619,-88.4154
+"220",46,3,33,2777,"Adler BrÌÄå_u Tailgate Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",44.2619,-88.4154
+"221",46,3,42,2775,"Adler BrÌÄå_u Oatmeal Stout",0,"American-Style Stout","United States","North American Ale",44.2619,-88.4154
+"222",46,3,33,2956,"Adler BrÌÄå_u Holiday Ale",0,"American-Style Amber/Red Ale","United States","North American Ale",44.2619,-88.4154
+"223",46,2,25,2776,"Adler BrÌÄå_u Classic Porter",0,"Porter","United States","Irish Ale",44.2619,-88.4154
+"224",46,3,26,2781,"Adler BrÌÄå_u Fox Classic River Ale",0,"American-Style Pale Ale","United States","North American Ale",44.2619,-88.4154
 "225",47,3,26,2086,"Anglers Ale",0,"American-Style Pale Ale","United States","North American Ale",42.322,-85.1851
 "226",47,1,13,5495,"Big Dick's Olde Ale",8.2,"Old Ale","United States","British Ale",42.322,-85.1851
 "227",47,3,42,2084,"Starboard Stout",0,"American-Style Stout","United States","North American Ale",42.322,-85.1851
@@ -281,7 +281,7 @@
 "299",68,7,92,1224,"Navigator Doppelbock",8.9,"German-Style Doppelbock","United States","German Lager",32.7668,-117.195
 "301",70,4,55,211,"Der Weisse Bock",8.5,"South German-Style Weizenbock","Germany","German Ale",49.8901,10.9067
 "302",70,4,50,479,"Weisse",4.9,"South German-Style Hefeweizen","Germany","German Ale",49.8901,10.9067
-"303",70,4,50,1670,"Hefewei<U+D001><U+009F>bier",0,"South German-Style Hefeweizen","Germany","German Ale",49.8901,10.9067
+"303",70,4,50,1670,"HefeweiÌÄÅübier",0,"South German-Style Hefeweizen","Germany","German Ale",49.8901,10.9067
 "304",70,7,90,474,"Christmas Bock",6,"Traditional German-Style Bock","Germany","German Lager",49.8901,10.9067
 "305",71,1,10,1490,"Madelia Mild",0,"English-Style Pale Mild Ale","United States","British Ale",44.1636,-93.9994
 "306",71,3,38,1015,"Rapidan Brown",0,"American-Style Brown Ale","United States","North American Ale",44.1636,-93.9994
@@ -391,7 +391,7 @@
 "414",101,8,95,1814,"Wheat",0,"American-Style Lager","United States","North American Lager",43.1947,-88.729
 "415",102,3,26,1494,"Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",41.5059,-90.5171
 "419",106,3,26,4113,"CH-47 Pale Ale",5,"American-Style Pale Ale","United States","North American Ale",40.622,-75.382
-"420",106,5,70,4114,"Cassis Reserve Lambic <ed><U+00A2><e4><U+0089><e5><U+008F><ec>06",6.5,"Belgian-Style Fruit Lambic","United States","Belgian and French Ale",40.622,-75.382
+"420",106,5,70,4114,"Cassis Reserve Lambic Ì¢‰âÂèÏ06",6.5,"Belgian-Style Fruit Lambic","United States","Belgian and French Ale",40.622,-75.382
 "421",106,4,57,4115,"Arc Weld Alt",5.3,"German-Style Brown Ale/Altbier","United States","German Ale",40.622,-75.382
 "422",107,3,26,2900,"Hop-Stuffed Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",40.1106,-88.2073
 "424",109,8,95,2755,"Hollandia",0,"American-Style Lager","Netherlands","North American Lager",51.5163,5.5977
@@ -447,7 +447,7 @@
 "475",124,3,42,1099,"Thundermuck Stout",0,"American-Style Stout","United States","North American Ale",45.8981,-123.961
 "478",127,7,90,430,"La Rossa",7.2,"Traditional German-Style Bock","Italy","German Lager",46.0597,13.2269
 "479",127,7,90,4372,"Birra Moretti La Rossa",7.2,"Traditional German-Style Bock","Italy","German Lager",46.0597,13.2269
-"480",128,1,13,891,"No<U+D00C><U+0082>l",0,"Old Ale","Italy","British Ale",44.5153,7.8922
+"480",128,1,13,891,"NoÌÄåÇl",0,"Old Ale","Italy","British Ale",44.5153,7.8922
 "482",130,3,26,3662,"Red Oak Ale",0,"American-Style Pale Ale","United States","North American Ale",37.8634,-122.259
 "483",131,7,77,4566,"Premium Beer",4.8,"German-Style Pilsener","Germany","German Lager",49.974,6.5227
 "484",132,3,42,2470,"Whiskey Stout",0,"American-Style Stout","United States","North American Ale",45.5235,-122.676
@@ -540,7 +540,7 @@
 "580",161,11,141,71,"Nut Cracker Ale",5.9,"Winter Warmer","United States","Other Style",39.0821,-94.5965
 "581",161,2,22,5300,"Boulevard Irish Ale",5.8,"Irish-Style Red Ale","United States","Irish Ale",39.0821,-94.5965
 "582",161,3,32,5298,"Double Wide I.P.A.",8.5,"Imperial or Double India Pale Ale","United States","North American Ale",39.0821,-94.5965
-"583",161,5,67,5302,"Bouldevard Z<U+D0C1><cd>N",4.4,"Belgian-Style White","United States","Belgian and French Ale",39.0821,-94.5965
+"583",161,5,67,5302,"Bouldevard ZÌÉÅÕN",4.4,"Belgian-Style White","United States","Belgian and French Ale",39.0821,-94.5965
 "584",161,3,31,5299,"Single-Wide I.P.A.",5.7,"American-Style India Pale Ale","United States","North American Ale",39.0821,-94.5965
 "585",161,11,116,4268,"Boulevard Unfiltered Wheat",4.5,"Light American Wheat Ale or Lager","United States","Other Style",39.0821,-94.5965
 "586",161,3,38,214,"Lunar Ale",5.1,"American-Style Brown Ale","United States","North American Ale",39.0821,-94.5965
@@ -550,11 +550,11 @@
 "590",164,5,61,5868,"Triple",8.4,"Belgian-Style Tripel","Belgium","Belgian and French Ale",49.7185,5.5571
 "593",167,5,65,363,"La Chouffe Golden Ale",8,"Belgian-Style Pale Strong Ale","Belgium","Belgian and French Ale",50.1507,5.7442
 "594",167,3,29,361,"McChouffe",8.5,"Dark American-Belgo-Style Ale","Belgium","North American Ale",50.1507,5.7442
-"598",170,11,116,42,"Bi<U+D00C><c2>re Darbyste",0,"Light American Wheat Ale or Lager","Belgium","Other Style",50.3693,3.827
-"599",171,5,72,5663,"Brasserie De Brunehaut Bio Bi<U+D00C><c2>re Blonde (Organic)",6.5,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.5109,3.3883
-"600",171,3,33,5664,"Brasserie de Brunehaut Bio Bi<U+D00C><c2>re Ambr<U+D00C><U+00A9>e (Organic)",6.5,"American-Style Amber/Red Ale","Belgium","North American Ale",50.5109,3.3883
+"598",170,11,116,42,"BiÌÄå¬re Darbyste",0,"Light American Wheat Ale or Lager","Belgium","Other Style",50.3693,3.827
+"599",171,5,72,5663,"Brasserie De Brunehaut Bio BiÌÄå¬re Blonde (Organic)",6.5,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.5109,3.3883
+"600",171,3,33,5664,"Brasserie de Brunehaut Bio BiÌÄå¬re AmbrÌÄå©e (Organic)",6.5,"American-Style Amber/Red Ale","Belgium","North American Ale",50.5109,3.3883
 "601",171,5,65,1582,"Abbaye de Saint-Martin Blonde",7,"Belgian-Style Pale Strong Ale","Belgium","Belgian and French Ale",50.5109,3.3883
-"602",171,5,67,5662,"Brasserie de Brunehaut Bio Bi<U+D00C><c2>re Blanche (Organic)",5,"Belgian-Style White","Belgium","Belgian and French Ale",50.5109,3.3883
+"602",171,5,67,5662,"Brasserie de Brunehaut Bio BiÌÄå¬re Blanche (Organic)",5,"Belgian-Style White","Belgium","Belgian and French Ale",50.5109,3.3883
 "603",171,5,66,5660,"Abbaye de Saint-Martin Brune",8,"Belgian-Style Dark Strong Ale","Belgium","Belgian and French Ale",50.5109,3.3883
 "604",171,5,72,5667,"Abbaye de St Amand",7,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.5109,3.3883
 "605",171,5,72,5661,"Abbaye de Saint-Martin Triple",9,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.5109,3.3883
@@ -562,7 +562,7 @@
 "610",176,3,26,50,"Zinnebir",0,"American-Style Pale Ale","Belgium","North American Ale",50.7853,4.2437
 "613",179,3,26,3375,"Scotch",8,"American-Style Pale Ale","Belgium","North American Ale",50.6493,3.9242
 "614",180,8,95,3710,"Hinano",5,"American-Style Lager","French Polynesia","North American Lager",-17.6797,-149.407
-"619",185,1,13,1309,"B<U+D00C><c8>te des Vosges",0,"Old Ale","France","British Ale",48.0028,6.6583
+"619",185,1,13,1309,"BÌÄå»te des Vosges",0,"Old Ale","France","British Ale",48.0028,6.6583
 "625",191,3,42,2349,"Hercule Stout",9,"American-Style Stout","Belgium","North American Ale",50.7428,3.6875
 "627",193,3,37,2222,"Belzebuth",13,"Golden or Blonde Ale","France","North American Ale",50.6054,3.0775
 "632",198,3,38,1988,"Griffon Brown Ale",0,"American-Style Brown Ale","Canada","North American Ale",45.4682,-73.5913
@@ -573,29 +573,29 @@
 "640",202,5,70,841,"Bruocsella 1900 Grand Cru",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
 "641",202,5,70,5769,"Vigneronne",5,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
 "642",202,5,70,203,"Classic Gueuze",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
-"643",202,5,70,1346,"Ros<U+D00C><U+00A9> de Gambrinus",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
-"644",202,5,70,178,"Cuv<U+D00C><U+00A9>e des Champions 2003-2004",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
+"643",202,5,70,1346,"RosÌÄå© de Gambrinus",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
+"644",202,5,70,178,"CuvÌÄå©e des Champions 2003-2004",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
 "645",202,5,70,2390,"Iris 1996",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
 "646",202,5,70,1348,"Kriek-Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8416,4.3355
 "648",204,4,50,514,"See-Weizen Bio-Hefeweizen",0,"South German-Style Hefeweizen","Germany","German Ale",47.6715,9.5888
 "649",204,7,90,513,"Coronator Helle Doppelbock",7.5,"Traditional German-Style Bock","Germany","German Lager",47.6715,9.5888
 "650",205,4,50,458,"Ur-Weisse",0,"South German-Style Hefeweizen","Germany","German Ale",47.9706,11.7808
 "651",205,7,92,4306,"Celebrator",6.7,"German-Style Doppelbock","Germany","German Lager",47.9706,11.7808
-"652",205,7,84,1305,"Oktober Fest - M<U+D00C>_rzen",0,"German-Style Oktoberfest","Germany","German Lager",47.9706,11.7808
-"653",205,4,50,1340,"Br<U+D00C>_u-Weisse",0,"South German-Style Hefeweizen","Germany","German Ale",47.9706,11.7808
+"652",205,7,84,1305,"Oktober Fest - MÌÄå_rzen",0,"German-Style Oktoberfest","Germany","German Lager",47.9706,11.7808
+"653",205,4,50,1340,"BrÌÄå_u-Weisse",0,"South German-Style Hefeweizen","Germany","German Ale",47.9706,11.7808
 "654",206,7,79,5867,"Beck's Light",0,"European Low-Alcohol Lager","Germany","German Lager",53.0787,8.7901
 "655",206,8,95,1545,"St.Pauli Girl Beer",0,"American-Style Lager","Germany","North American Lager",53.0787,8.7901
 "656",206,7,84,2874,"Oktoberfest",0,"German-Style Oktoberfest","Germany","German Lager",53.0787,8.7901
 "658",208,4,50,1680,"Weizla Hell",5,"South German-Style Hefeweizen","Germany","German Ale",49.8942,10.8855
 "659",209,5,67,4582,"Maisel's Weisse Kristall",5.1,"Belgian-Style White","Germany","Belgian and French Ale",49.9477,11.5659
-"660",210,4,50,84,"J<U+D00C>_rger Wei<U+D001><U+009F>e Hell",0,"South German-Style Hefeweizen","Austria","German Ale",48.2351,13.8292
+"660",210,4,50,84,"JÌÄå_rger WeiÌÄÅüe Hell",0,"South German-Style Hefeweizen","Austria","German Ale",48.2351,13.8292
 "662",212,4,50,2835,"Weizen Bier",0,"South German-Style Hefeweizen","Germany","German Ale",52.3935,9.6814
-"664",214,7,90,3393,"Hexen Br<U+D00C>_u",0,"Traditional German-Style Bock","Switzerland","German Lager",47.3642,8.5245
+"664",214,7,90,3393,"Hexen BrÌÄå_u",0,"Traditional German-Style Bock","Switzerland","German Lager",47.3642,8.5245
 "666",216,4,50,570,"Hefe-Weizen",5.2,"South German-Style Hefeweizen","Germany","German Ale",47.7818,9.6215
 "670",220,3,38,1649,"Alt",4.6,"American-Style Brown Ale","Germany","North American Ale",51.2216,6.7853
 "671",221,4,50,828,"Hefe-Weizen",5.2,"South German-Style Hefeweizen","Germany","German Ale",51.2847,7.2936
 "672",222,8,95,1674,"Rauchbier Weissbier",0,"American-Style Lager","Germany","North American Lager",49.8942,10.8855
-"673",223,3,38,3061,"Oberg<U+D00C>_rig / M<U+D00C>_nster Alt",0,"American-Style Brown Ale","Germany","North American Ale",51.9657,7.6214
+"673",223,3,38,3061,"ObergÌÄå_rig / MÌÄå_nster Alt",0,"American-Style Brown Ale","Germany","North American Ale",51.9657,7.6214
 "674",223,3,38,1938,"Jubilate Special Reserve Anniversary Ale",0,"American-Style Brown Ale","Germany","North American Ale",51.9657,7.6214
 "675",223,4,50,5175,"Organic Hefewizen",0,"South German-Style Hefeweizen","Germany","German Ale",51.9657,7.6214
 "679",227,1,15,4104,"Scotch Ale",7,"Scotch Ale","United States","British Ale",44.4105,-95.4107
@@ -647,7 +647,7 @@
 "734",247,4,55,2265,"Dunkel Doppel Weizen Bock",0,"South German-Style Weizenbock","United States","German Ale",42.8606,-90.1772
 "735",247,1,10,4214,"Dark Mild",3.5,"English-Style Pale Mild Ale","United States","British Ale",42.8606,-90.1772
 "736",247,3,42,4215,"Irish Stout",0,"American-Style Stout","United States","North American Ale",42.8606,-90.1772
-"737",248,5,70,2926,"Chapeau P<U+D00C><c8>che Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.853,4.1649
+"737",248,5,70,2926,"Chapeau PÌÄå»che Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.853,4.1649
 "738",248,5,70,2928,"Chapeau Mirabelle Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.853,4.1649
 "739",248,5,70,2326,"Chapeau Framboise Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.853,4.1649
 "740",248,5,70,2922,"Chapeau Tropical Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.853,4.1649
@@ -705,17 +705,17 @@
 "800",272,5,65,350,"Arabier",9,"Belgian-Style Pale Strong Ale","Belgium","Belgian and French Ale",51.0281,2.9038
 "801",272,5,65,351,"Bos Keun",8.9,"Belgian-Style Pale Strong Ale","Belgium","Belgian and French Ale",51.0281,2.9038
 "803",274,5,70,3567,"Mort Subite Gueuze Lambic",4.5,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.9098,4.2505
-"808",280,5,72,4703,"Achel Blond 5<U+D24C><c1>",5,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",51.2515,5.546
-"809",280,5,60,4706,"Achel Bruin 8<U+D24C><c1>",8,"Belgian-Style Dubbel","Belgium","Belgian and French Ale",51.2515,5.546
-"810",280,5,61,4705,"Achel Blond 8<U+D24C><c1>",8,"Belgian-Style Tripel","Belgium","Belgian and French Ale",51.2515,5.546
-"811",280,3,29,4704,"Achel Bruin 5<U+D24C><c1>",5,"Dark American-Belgo-Style Ale","Belgium","North American Ale",51.2515,5.546
+"808",280,5,72,4703,"Achel Blond 5Ìâå¡",5,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",51.2515,5.546
+"809",280,5,60,4706,"Achel Bruin 8Ìâå¡",8,"Belgian-Style Dubbel","Belgium","Belgian and French Ale",51.2515,5.546
+"810",280,5,61,4705,"Achel Blond 8Ìâå¡",8,"Belgian-Style Tripel","Belgium","Belgian and French Ale",51.2515,5.546
+"811",280,3,29,4704,"Achel Bruin 5Ìâå¡",5,"Dark American-Belgo-Style Ale","Belgium","North American Ale",51.2515,5.546
 "812",281,5,72,4329,"Maredsous 10 Tripple",10,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",51.2206,4.3997
 "813",281,5,72,4329,"Maredsous 10 Tripple",10,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",51.0442,4.3257
 "816",284,5,72,5646,"Gouden Carolus Hopsinjoor",8,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",51.0325,4.473
 "821",287,5,70,1534,"Liefmans Kriekbier",6,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8439,3.617
 "822",287,5,70,2353,"Gluhkriek",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8439,3.617
-"823",288,5,70,1344,"Cuv<U+D00C><U+00A9>e Ren<U+D00C><U+00A9> Grand Cru Gueuze Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
-"824",288,5,70,2327,"P<U+D00C><c8>che / Pecheresse",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
+"823",288,5,70,1344,"CuvÌÄå©e RenÌÄå© Grand Cru Gueuze Lambic",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
+"824",288,5,70,2327,"PÌÄå»che / Pecheresse",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
 "825",288,5,70,2329,"Framboise",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
 "826",288,5,70,3095,"Kriek",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.818,4.2307
 "828",290,5,70,958,"Oude Gueuze Vielle",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.7586,4.3012
@@ -796,7 +796,7 @@
 "923",334,3,33,1206,"Auburn Ale",5,"American-Style Amber/Red Ale","Canada","North American Ale",43.4745,-79.6775
 "927",338,7,92,2804,"Capital Dark Doppelbock",0,"German-Style Doppelbock","United States","German Lager",43.0949,-89.5163
 "928",338,3,33,5348,"Capital Rustic Ale",0,"American-Style Amber/Red Ale","United States","North American Ale",43.0949,-89.5163
-"929",338,7,90,1703,"Winter Sk<U+D00C><U+00AB>l",0,"Traditional German-Style Bock","United States","German Lager",43.0949,-89.5163
+"929",338,7,90,1703,"Winter SkÌÄå´l",0,"Traditional German-Style Bock","United States","German Lager",43.0949,-89.5163
 "930",338,7,90,1403,"Autumnal Fire",0,"Traditional German-Style Bock","United States","German Lager",43.0949,-89.5163
 "931",338,7,77,2758,"Capital Special Pilsner",0,"German-Style Pilsener","United States","German Lager",43.0949,-89.5163
 "932",338,4,50,2228,"Capital Kloster Weizen",0,"South German-Style Hefeweizen","United States","German Ale",43.0949,-89.5163
@@ -810,7 +810,7 @@
 "940",338,7,84,1525,"Capital Fest Beer",0,"German-Style Oktoberfest","United States","German Lager",43.0949,-89.5163
 "941",338,3,38,1701,"Capital Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",43.0949,-89.5163
 "942",338,7,84,5349,"Capital Oktoberfest",0,"German-Style Oktoberfest","United States","German Lager",43.0949,-89.5163
-"943",338,7,84,2971,"Garten Br<U+D00C>_u Fest",0,"German-Style Oktoberfest","United States","German Lager",43.0949,-89.5163
+"943",338,7,84,2971,"Garten BrÌÄå_u Fest",0,"German-Style Oktoberfest","United States","German Lager",43.0949,-89.5163
 "944",339,4,57,4236,"St. Adrian's Alt",0,"German-Style Brown Ale/Altbier","United States","German Ale",38.8999,-77.0272
 "945",339,4,57,4236,"St. Adrian's Alt",0,"German-Style Brown Ale/Altbier","United States","German Ale",43.8042,-91.2526
 "946",339,3,33,4151,"Amber Waves",5.3,"American-Style Amber/Red Ale","United States","North American Ale",38.8999,-77.0272
@@ -870,7 +870,7 @@
 "1003",360,8,95,3305,"Noche Buena Special Holiday Amber Beer",0,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
 "1004",360,8,95,4264,"Tecate",0,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
 "1005",360,8,95,4296,"Cerveza Sol",4.5,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
-"1006",360,8,95,3551,"Bohemia Cl<U+D00C><e7>sica",0,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
+"1006",360,8,95,3551,"Bohemia ClÌÄåÁsica",0,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
 "1007",360,8,95,4307,"Dos Equis Amber Lager",0,"American-Style Lager","Mexico","North American Lager",25.7091,-100.314
 "1010",363,7,84,387,"Cerveza Roja",6,"German-Style Oktoberfest","Argentina","German Lager",-32.8902,-68.844
 "1011",363,8,95,386,"Cerveza Diablo",7.5,"American-Style Lager","Argentina","North American Lager",-32.8902,-68.844
@@ -896,8 +896,8 @@
 "1034",376,3,31,1154,"IPA",6.9,"American-Style India Pale Ale","United States","North American Ale",39.8023,-105.084
 "1035",376,3,42,1155,"Black Cat Stout",6.15,"American-Style Stout","United States","North American Ale",39.8023,-105.084
 "1036",377,3,42,2448,"Stout",0,"American-Style Stout","United States","North American Ale",36.1476,-115.298
-"1037",378,5,60,4072,"Chimay Premi<U+D00C><c2>re (Chimay Red)",7,"Belgian-Style Dubbel","Belgium","Belgian and French Ale",50.0355,4.3777
-"1038",378,5,72,4702,"Chimay Dor<U+D00C><U+00A9>e",4.8,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.0355,4.3777
+"1037",378,5,60,4072,"Chimay PremiÌÄå¬re (Chimay Red)",7,"Belgian-Style Dubbel","Belgium","Belgian and French Ale",50.0355,4.3777
+"1038",378,5,72,4702,"Chimay DorÌÄå©e",4.8,"Other Belgian-Style Ales","Belgium","Belgian and French Ale",50.0355,4.3777
 "1039",378,5,61,4073,"Chimay Triple (Chimay White)",8,"Belgian-Style Tripel","Belgium","Belgian and French Ale",50.0355,4.3777
 "1040",379,3,31,5724,"Jai Alai IPA",7.5,"American-Style India Pale Ale","United States","North American Ale",27.9587,-82.5093
 "1041",379,5,74,5727,"Guava Grove Ale",8,"French & Belgian-Style Saison","United States","Belgian and French Ale",27.9587,-82.5093
@@ -936,7 +936,7 @@
 "1081",388,3,42,2231,"Steel Head Stout",0,"American-Style Stout","United States","North American Ale",30.396,-88.8853
 "1082",388,8,95,2233,"Beau Rivage Bock",0,"American-Style Lager","United States","North American Lager",30.396,-88.8853
 "1083",389,3,26,3467,"Desperado Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",37.0013,-121.566
-"1084",390,7,84,2446,"Brandenburg Gate M<U+D00C>_rzen",0,"German-Style Oktoberfest","United States","German Lager",37.978,-122.031
+"1084",390,7,84,2446,"Brandenburg Gate MÌÄå_rzen",0,"German-Style Oktoberfest","United States","German Lager",37.978,-122.031
 "1085",390,4,50,2445,"Hefeweizen",0,"South German-Style Hefeweizen","United States","German Ale",37.978,-122.031
 "1086",390,3,26,2444,"Pale",0,"American-Style Pale Ale","United States","North American Ale",37.978,-122.031
 "1087",391,11,121,5451,"Huckleberry Ale",3.5,"Fruit Beer","United States","Other Style",47.6745,-116.784
@@ -1055,7 +1055,7 @@
 "1211",434,3,42,2522,"Big Bear Stout",0,"American-Style Stout","United States","North American Ale",39.5584,-79.3528
 "1213",436,3,31,2439,"Stuft Pizza Torrey Pines IPA",0,"American-Style India Pale Ale","United States","North American Ale",32.7153,-117.157
 "1214",437,3,26,2708,"Hops and Glory American Ale",0,"American-Style Pale Ale","United States","North American Ale",43.0481,-88.3553
-"1215",437,7,90,2646,"Fr<U+D00C>_hlingzeit Maibock",0,"Traditional German-Style Bock","United States","German Lager",43.0481,-88.3553
+"1215",437,7,90,2646,"FrÌÄå_hlingzeit Maibock",0,"Traditional German-Style Bock","United States","German Lager",43.0481,-88.3553
 "1216",437,3,33,2693,"Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",43.0481,-88.3553
 "1217",437,7,84,2570,"Oktoberfest",0,"German-Style Oktoberfest","United States","German Lager",43.0481,-88.3553
 "1218",437,3,38,2709,"Hopfenteufel Alt Bier",0,"American-Style Brown Ale","United States","North American Ale",43.0481,-88.3553
@@ -1212,7 +1212,7 @@
 "1379",483,1,13,2225,"old gak strong ale",0,"Old Ale","United States","British Ale",44.4489,-88.0604
 "1380",483,7,86,2527,"Queen of Clubs Schwarzbier",0,"German-Style Schwarzbier","United States","German Lager",44.4489,-88.0604
 "1381",483,4,50,3025,"Hefeweizen",0,"South German-Style Hefeweizen","United States","German Ale",44.4489,-88.0604
-"1382",483,7,90,2641,"St<U+D00C>_venbr<U+D00C>_u Maibock",0,"Traditional German-Style Bock","United States","German Lager",44.4489,-88.0604
+"1382",483,7,90,2641,"StÌÄå_venbrÌÄå_u Maibock",0,"Traditional German-Style Bock","United States","German Lager",44.4489,-88.0604
 "1383",483,7,90,2382,"Eganator Doppelbock",0,"Traditional German-Style Bock","United States","German Lager",44.4489,-88.0604
 "1384",483,3,42,3024,"Irish Stout",0,"American-Style Stout","United States","North American Ale",44.4489,-88.0604
 "1385",483,1,10,2736,"Moll Dubh Irish Ale",0,"English-Style Pale Mild Ale","United States","British Ale",44.4489,-88.0604
@@ -1246,7 +1246,7 @@
 "1416",494,3,42,782,"No Doubt Stout",5.75,"American-Style Stout","United States","North American Ale",47.5604,-122.387
 "1417",495,7,86,5609,"Elm City Schwarzbier",5.3,"German-Style Schwarzbier","United States","German Lager",42.9324,-72.2867
 "1418",496,4,55,684,"Whoville Weizenbock",6.6,"South German-Style Weizenbock","United States","German Ale",47.614,-122.316
-"1419",496,3,26,689,"BiFr<U+D00C>_st Winter Ale",0,"American-Style Pale Ale","United States","North American Ale",47.614,-122.316
+"1419",496,3,26,689,"BiFrÌÄå_st Winter Ale",0,"American-Style Pale Ale","United States","North American Ale",47.614,-122.316
 "1420",496,2,25,693,"Perseus Porter",5.4,"Porter","United States","Irish Ale",47.614,-122.316
 "1421",496,3,26,690,"Elysian Fields Pale Ale",4.8,"American-Style Pale Ale","United States","North American Ale",47.614,-122.316
 "1422",496,7,90,695,"Ambrosia Maibock",5.3,"Traditional German-Style Bock","United States","German Lager",47.614,-122.316
@@ -1355,7 +1355,7 @@
 "1531",526,3,33,766,"Organic Amber Ale",5,"American-Style Amber/Red Ale","United States","North American Ale",47.0437,-122.897
 "1532",526,7,90,2342,"Detonator Doppelbock",8,"Traditional German-Style Bock","United States","German Lager",47.0437,-122.897
 "1533",526,2,25,763,"Mudshark Porter",0,"Porter","United States","Irish Ale",47.0437,-122.897
-"1534",526,3,31,3913,"10 Squared (10<U+D24C>_)",10,"American-Style India Pale Ale","United States","North American Ale",47.0437,-122.897
+"1534",526,3,31,3913,"10 Squared (10Ìâå_)",10,"American-Style India Pale Ale","United States","North American Ale",47.0437,-122.897
 "1535",526,8,95,767,"Blind Pig Dunkelweizen",4.7,"American-Style Lager","United States","North American Lager",47.0437,-122.897
 "1536",526,8,95,768,"Whistling Pig Hefeweizen",4.5,"American-Style Lager","United States","North American Lager",47.0437,-122.897
 "1537",526,3,26,765,"Wild Salmon Pale Ale",4,"American-Style Pale Ale","United States","North American Ale",47.0437,-122.897
@@ -1363,7 +1363,7 @@
 "1539",526,3,42,758,"Poseidon Imperial Stout",0,"American-Style Stout","United States","North American Ale",47.0437,-122.897
 "1540",526,3,26,762,"WinterFish Ale",7.5,"American-Style Pale Ale","United States","North American Ale",47.0437,-122.897
 "1541",527,3,26,1051,"XXX English Ale",6.6,"American-Style Pale Ale","United States","North American Ale",46.7926,-92.0909
-"1542",527,3,31,1052,"El Ni<U+D00C><U+00B1>o IPA",0,"American-Style India Pale Ale","United States","North American Ale",46.7926,-92.0909
+"1542",527,3,31,1052,"El NiÌÄå±o IPA",0,"American-Style India Pale Ale","United States","North American Ale",46.7926,-92.0909
 "1543",527,3,26,1053,"Starfire Pale Ale",6.2,"American-Style Pale Ale","United States","North American Ale",46.7926,-92.0909
 "1544",527,3,42,1050,"Big Boat Oatmeal Stout",6.6,"American-Style Stout","United States","North American Ale",46.7926,-92.0909
 "1545",527,8,95,1055,"Lighthouse Ale",4.4,"American-Style Lager","United States","North American Lager",46.7926,-92.0909
@@ -1482,7 +1482,7 @@
 "1664",552,3,31,2226,"IPA",0,"American-Style India Pale Ale","United States","North American Ale",44.0342,-88.5608
 "1665",552,3,33,2049,"Fox Tail Amber Ale",0,"American-Style Amber/Red Ale","United States","North American Ale",44.0342,-88.5608
 "1666",552,2,25,2022,"Titan Porter",0,"Porter","United States","Irish Ale",44.0342,-88.5608
-"1667",552,3,38,1966,"<U+D001><f1>ber-Sticke Altbier",0,"American-Style Brown Ale","United States","North American Ale",44.0342,-88.5608
+"1667",552,3,38,1966,"ÌÄÅÒber-Sticke Altbier",0,"American-Style Brown Ale","United States","North American Ale",44.0342,-88.5608
 "1668",552,3,38,2047,"Nut Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",44.0342,-88.5608
 "1669",553,3,42,2041,"Trolleycar Stout",0,"American-Style Stout","United States","North American Ale",44.2678,-88.4731
 "1670",553,2,25,1951,"Titan Porter",0,"Porter","United States","Irish Ale",44.2678,-88.4731
@@ -1579,7 +1579,7 @@
 "1769",585,7,90,3272,"Aviator Doppelbock",0,"Traditional German-Style Bock","United States","German Lager",41.9137,-87.6543
 "1770",586,3,38,3067,"Hex Nut Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",41.8871,-87.6721
 "1771",586,1,21,4373,"Stockyard Oatmeal Stout",6,"Oatmeal Stout","United States","British Ale",41.8871,-87.6721
-"1772",586,8,95,3088,"Baderbr<U+D00C>_u Pilsener",0,"American-Style Lager","United States","North American Lager",41.8871,-87.6721
+"1772",586,8,95,3088,"BaderbrÌÄå_u Pilsener",0,"American-Style Lager","United States","North American Lager",41.8871,-87.6721
 "1773",586,3,42,1532,"Oatmeal Stout",0,"American-Style Stout","United States","North American Ale",41.8871,-87.6721
 "1774",586,7,84,1411,"Oktoberfest",0,"German-Style Oktoberfest","United States","German Lager",41.8871,-87.6721
 "1775",586,8,95,407,"Demolition",8,"American-Style Lager","United States","North American Lager",41.8871,-87.6721
@@ -1601,7 +1601,7 @@
 "1791",590,3,42,656,"1916 Irish Stout",3.5,"American-Style Stout","United States","North American Ale",41.4295,-97.3623
 "1792",590,3,38,847,"Bugeater Brown Ale",4.4,"American-Style Brown Ale","United States","North American Ale",41.4295,-97.3623
 "1793",590,8,95,3742,"Old Powerhouse Lager (discontinued)",0,"American-Style Lager","United States","North American Lager",41.4295,-97.3623
-"1794",590,7,90,234,"St<U+D00C>_venbr<U+D00C>_u Maibock",0,"Traditional German-Style Bock","United States","German Lager",41.4295,-97.3623
+"1794",590,7,90,234,"StÌÄå_venbrÌÄå_u Maibock",0,"Traditional German-Style Bock","United States","German Lager",41.4295,-97.3623
 "1795",590,3,38,658,"Wilsteraner Altbier",5.6,"American-Style Brown Ale","United States","North American Ale",41.4295,-97.3623
 "1796",590,3,42,3065,"Rumble Seat Stout (discontinued)",0,"American-Style Stout","United States","North American Ale",41.4295,-97.3623
 "1797",590,7,90,3064,"Doppelbock (discontinued)",0,"Traditional German-Style Bock","United States","German Lager",41.4295,-97.3623
@@ -1777,7 +1777,7 @@
 "1970",630,5,70,1959,"Oudbeitje",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.729,4.2971
 "1971",631,2,25,3371,"Stealth Dark Ale",0,"Porter","United States","Irish Ale",20.7592,-156.457
 "1972",631,7,86,3569,"Black Lava Lager",0,"German-Style Schwarzbier","United States","German Lager",20.7592,-156.457
-"1973",631,3,26,3373,"El Ni<U+D00C><U+00B1>o Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",20.7592,-156.457
+"1973",631,3,26,3373,"El NiÌÄå±o Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",20.7592,-156.457
 "1974",631,3,33,3372,"Red Eye Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",20.7592,-156.457
 "1975",631,8,95,3570,"Red Sky Amber Lager",0,"American-Style Lager","United States","North American Lager",20.7592,-156.457
 "1976",631,8,95,3572,"Moonset Lager",0,"American-Style Lager","United States","North American Lager",20.7592,-156.457
@@ -1820,7 +1820,7 @@
 "2014",644,3,31,2495,"Backpacker IPA",0,"American-Style India Pale Ale","United States","North American Ale",39.7392,-104.985
 "2015",644,3,42,2491,"Rainbow Trout Stout",0,"American-Style Stout","United States","North American Ale",39.7392,-104.985
 "2016",644,8,95,2498,"El Rey Cerveza",0,"American-Style Lager","United States","North American Lager",39.7392,-104.985
-"2022",649,8,95,542,"Original Ittinger Klosterbr<U+D00C>_u",0,"American-Style Lager","Switzerland","North American Lager",47.5077,8.7302
+"2022",649,8,95,542,"Original Ittinger KlosterbrÌÄå_u",0,"American-Style Lager","Switzerland","North American Lager",47.5077,8.7302
 "2023",650,7,90,4241,"Aecht Schlenkerla Rauchbier Urbock",6,"Traditional German-Style Bock","Germany","German Lager",49.892,10.8853
 "2024",650,8,95,472,"Aecht Schlenkerla Rauchbier Weizen",0,"American-Style Lager","Germany","North American Lager",49.892,10.8853
 "2025",651,3,42,2593,"Stump Sitter Stout",0,"American-Style Stout","United States","North American Ale",45.7458,-87.056
@@ -1857,9 +1857,9 @@
 "2059",659,4,50,1360,"Bavarian-Weissbier Hefeweisse / Weisser Hirsch",5.2,"South German-Style Hefeweizen","Germany","German Ale",47.5132,10.279
 "2060",659,7,90,1357,"Doppel-Hirsch Bavarian-Doppelbock",7.2,"Traditional German-Style Bock","Germany","German Lager",47.5132,10.279
 "2061",660,8,95,4820,"Hite",4.5,"American-Style Lager","Korea, Republic of","North American Lager",37.5665,126.978
-"2062",661,7,90,910,"Will-Br<U+D00C>_u Ur-Bock",0,"Traditional German-Style Bock","Germany","German Lager",50.3949,9.7724
+"2062",661,7,90,910,"Will-BrÌÄå_u Ur-Bock",0,"Traditional German-Style Bock","Germany","German Lager",50.3949,9.7724
 "2063",662,7,86,1205,"Porter",5.8,"German-Style Schwarzbier","Germany","German Lager",49.0125,8.4264
-"2064",663,4,50,3560,"Edelweiss Hefetr<U+D00C>_b",0,"South German-Style Hefeweizen","Austria","German Ale",47.6942,13.0784
+"2064",663,4,50,3560,"Edelweiss HefetrÌÄå_b",0,"South German-Style Hefeweizen","Austria","German Ale",47.6942,13.0784
 "2066",665,7,84,3672,"Oktoberfest",0,"German-Style Oktoberfest","United States","German Lager",32.9618,-96.8292
 "2067",665,2,25,3638,"Texas Special 101 Porter",0,"Porter","United States","Irish Ale",32.9618,-96.8292
 "2068",665,7,90,3639,"Black Rock Bock",0,"Traditional German-Style Bock","United States","German Lager",32.9618,-96.8292
@@ -2018,16 +2018,16 @@
 "2237",721,7,84,1000,"Winterfest Lager",0,"German-Style Oktoberfest","United States","German Lager",39.7458,-75.5467
 "2238",722,1,1,5421,"Martin's Pale Ale",5.8,"Classic English-Style Pale Ale","Belgium","British Ale",50.7298,4.508
 "2239",723,3,42,4893,"Madrugada Obscura",8.1,"American-Style Stout","United States","North American Ale",42.3375,-83.8895
-"2240",723,5,74,395,"Bam Bi<U+D00C><c2>re",4.5,"French & Belgian-Style Saison","United States","Belgian and French Ale",42.3375,-83.8895
+"2240",723,5,74,395,"Bam BiÌÄå¬re",4.5,"French & Belgian-Style Saison","United States","Belgian and French Ale",42.3375,-83.8895
 "2241",723,5,74,4891,"E.S. Bam",4.7,"French & Belgian-Style Saison","United States","Belgian and French Ale",42.3375,-83.8895
 "2242",723,3,33,409,"La Roja",7.2,"American-Style Amber/Red Ale","United States","North American Ale",42.3375,-83.8895
 "2243",723,1,13,157,"Biere de Mars",7,"Old Ale","United States","British Ale",42.3375,-83.8895
 "2244",723,3,38,43,"Maracaibo Especial",7.5,"American-Style Brown Ale","United States","North American Ale",42.3375,-83.8895
 "2245",723,3,33,4894,"Fuego del Otono",6.1,"American-Style Amber/Red Ale","United States","North American Ale",42.3375,-83.8895
-"2246",723,11,116,4890,"Weizen Bam Bi<U+D00C><c2>re",4.5,"Light American Wheat Ale or Lager","United States","Other Style",42.3375,-83.8895
+"2246",723,11,116,4890,"Weizen Bam BiÌÄå¬re",4.5,"Light American Wheat Ale or Lager","United States","Other Style",42.3375,-83.8895
 "2247",723,5,74,4892,"Bam Noire",4.3,"French & Belgian-Style Saison","United States","Belgian and French Ale",42.3375,-83.8895
 "2248",723,5,72,45,"Calabaza Blanca",4.8,"Other Belgian-Style Ales","United States","Belgian and French Ale",42.3375,-83.8895
-"2249",723,5,64,177,"Luci<U+D00C><U+00A9>rnaga",6.5,"Belgian-Style Pale Ale","United States","Belgian and French Ale",42.3375,-83.8895
+"2249",723,5,64,177,"LuciÌÄå©rnaga",6.5,"Belgian-Style Pale Ale","United States","Belgian and French Ale",42.3375,-83.8895
 "2250",723,5,65,408,"Oro de Calabaza",8,"Belgian-Style Pale Strong Ale","United States","Belgian and French Ale",42.3375,-83.8895
 "2251",724,3,33,1788,"Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",39.9529,-74.201
 "2252",724,3,26,1787,"Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",39.9529,-74.201
@@ -2079,8 +2079,8 @@
 "2309",745,7,84,835,"Winter-Traum",5.4,"German-Style Oktoberfest","Germany","German Lager",49.0144,12.075
 "2310",746,7,90,1669,"Bockbier",7,"Traditional German-Style Bock","Germany","German Lager",49.8891,10.887
 "2311",746,7,84,1667,"Braunbier",5.7,"German-Style Oktoberfest","Germany","German Lager",49.8891,10.887
-"2312",746,7,86,1666,"Bamberger Schw<U+D00C>_rzla",0,"German-Style Schwarzbier","Germany","German Lager",49.8891,10.887
-"2314",748,4,50,1607,"K<U+D00C>_nig Ludwig Weissbier Hell",0,"South German-Style Hefeweizen","Germany","German Ale",48.1826,11.2522
+"2312",746,7,86,1666,"Bamberger SchwÌÄå_rzla",0,"German-Style Schwarzbier","Germany","German Lager",49.8891,10.887
+"2314",748,4,50,1607,"KÌÄå_nig Ludwig Weissbier Hell",0,"South German-Style Hefeweizen","Germany","German Ale",48.1826,11.2522
 "2317",751,3,42,3609,"Stout",0,"American-Style Stout","United States","North American Ale",19.642,-155.996
 "2318",751,3,26,1237,"Fire Rock Pale Ale",5.8,"American-Style Pale Ale","United States","North American Ale",19.642,-155.996
 "2319",751,11,116,4863,"Wailua",0,"Light American Wheat Ale or Lager","United States","Other Style",19.642,-155.996
@@ -2098,9 +2098,9 @@
 "2335",756,1,15,1459,"120 Shilling Scotch Ale",0,"Scotch Ale","United States","British Ale",42.5278,-83.0472
 "2336",756,3,42,5611,"Creme Brulee Java Stout",5.8,"American-Style Stout","United States","North American Ale",42.5278,-83.0472
 "2337",757,7,90,376,"Eisbock",9.2,"Traditional German-Style Bock","Germany","German Lager",50.106,11.4442
-"2338",757,7,86,480,"Kulmbacher M<U+009A>nchshof Schwarzbier",4.9,"German-Style Schwarzbier","Germany","German Lager",50.106,11.4442
-"2339",757,4,50,1631,"Kapuziner Wei<U+D001><U+009F>bier",0,"South German-Style Hefeweizen","Germany","German Ale",50.106,11.4442
-"2340",757,7,90,1396,"Reichelbr<U+D00C>_u Eisbock",0,"Traditional German-Style Bock","Germany","German Lager",50.106,11.4442
+"2338",757,7,86,480,"Kulmbacher Mönchshof Schwarzbier",4.9,"German-Style Schwarzbier","Germany","German Lager",50.106,11.4442
+"2339",757,4,50,1631,"Kapuziner WeiÌÄÅübier",0,"South German-Style Hefeweizen","Germany","German Ale",50.106,11.4442
+"2340",757,7,90,1396,"ReichelbrÌÄå_u Eisbock",0,"Traditional German-Style Bock","Germany","German Lager",50.106,11.4442
 "2341",757,7,90,375,"EKU 28",11,"Traditional German-Style Bock","Germany","German Lager",50.106,11.4442
 "2342",757,4,50,2643,"Kapuziner Gold",0,"South German-Style Hefeweizen","Germany","German Ale",50.106,11.4442
 "2344",759,3,42,1234,"Stout",0,"American-Style Stout","United States","North American Ale",32.8409,-117.274
@@ -2189,7 +2189,7 @@
 "2434",784,2,25,4924,"Patriot Porter",0,"Porter","United States","Irish Ale",33.7187,-78.8831
 "2437",787,3,26,5241,"Lift Bridge Pale Ale",5.5,"American-Style Pale Ale","United States","North American Ale",45.0565,-92.8222
 "2438",787,5,66,5242,"Biscotti",7,"Belgian-Style Dark Strong Ale","United States","Belgian and French Ale",45.0565,-92.8222
-"2439",787,3,26,5243,"Harvest<U+D00C>_r Fresh Hop Ale",7.2,"American-Style Pale Ale","United States","North American Ale",45.0565,-92.8222
+"2439",787,3,26,5243,"HarvestÌÄå_r Fresh Hop Ale",7.2,"American-Style Pale Ale","United States","North American Ale",45.0565,-92.8222
 "2440",787,5,74,5240,"Farm Girl Saison",6,"French & Belgian-Style Saison","United States","Belgian and French Ale",45.0565,-92.8222
 "2441",788,3,26,619,"Beacon India Pale Ale",0,"American-Style Pale Ale","Canada","North American Ale",48.4358,-123.396
 "2442",789,3,26,2481,"Thunder Pup Pale",0,"American-Style Pale Ale","United States","North American Ale",45.7786,-111.179
@@ -2234,7 +2234,7 @@
 "2483",803,3,38,1402,"Downtown Brown",5,"American-Style Brown Ale","United States","North American Ale",40.8032,-124.165
 "2484",803,3,42,1434,"8-Ball Stout",0,"American-Style Stout","United States","North American Ale",40.8032,-124.165
 "2485",803,3,26,3268,"Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",40.8032,-124.165
-"2488",806,4,50,537,"L<U+D00C>_wen Weisse",0,"South German-Style Hefeweizen","Switzerland","German Ale",47.3642,8.5245
+"2488",806,4,50,537,"LÌÄå_wen Weisse",0,"South German-Style Hefeweizen","Switzerland","German Ale",47.3642,8.5245
 "2489",807,3,42,2712,"The Only Oat Malt Stout In The World",0,"American-Style Stout","United Kingdom","North American Ale",56.1073,-3.7528
 "2490",808,3,26,2066,"Old Woody Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",41.0677,-85.1524
 "2491",808,3,42,2063,"Harry Baals Stout",0,"American-Style Stout","United States","North American Ale",41.0677,-85.1524
@@ -2519,7 +2519,7 @@
 "2785",876,4,50,5238,"Heffevonom Bavarian Wheat",0,"South German-Style Hefeweizen","United States","German Ale",35.2156,-111.59
 "2786",876,1,20,5235,"Apache Trout Stout",5,"Sweet Stout","United States","British Ale",35.2156,-111.59
 "2787",876,3,31,5239,"Horny Toad IPA",7.1,"American-Style India Pale Ale","United States","North American Ale",35.2156,-111.59
-"2788",877,7,90,550,"Naturtr<U+D00C>_bes Kellerbier",0,"Traditional German-Style Bock","Austria","German Lager",47.4123,9.7443
+"2788",877,7,90,550,"NaturtrÌÄå_bes Kellerbier",0,"Traditional German-Style Bock","Austria","German Lager",47.4123,9.7443
 "2789",878,3,33,3704,"Red Jack",5,"American-Style Amber/Red Ale","Canada","North American Ale",43.6706,-79.3824
 "2790",878,3,31,4900,"Rickard's Pale Ale",0,"American-Style India Pale Ale","Canada","North American Ale",43.6706,-79.3824
 "2791",878,8,95,3576,"Ice",0,"American-Style Lager","Canada","North American Lager",43.6706,-79.3824
@@ -2600,7 +2600,7 @@
 "2872",905,11,116,209,"Sunshine Wheat",4.8,"Light American Wheat Ale or Lager","United States","Other Style",40.5929,-105.07
 "2873",905,3,37,223,"Skinny Dip",4.2,"Golden or Blonde Ale","United States","North American Ale",40.5929,-105.07
 "2874",905,2,25,68,"Big Shot Seasonal Ale",0,"Porter","United States","Irish Ale",40.5929,-105.07
-"2875",905,1,5,416,"2<U+D24C><c1> Below",6.6,"Extra Special Bitter","United States","British Ale",40.5929,-105.07
+"2875",905,1,5,416,"2Ìâå¡ Below",6.6,"Extra Special Bitter","United States","British Ale",40.5929,-105.07
 "2876",905,5,60,403,"Abbey Belgian Style Ale",7,"Belgian-Style Dubbel","United States","Belgian and French Ale",40.5929,-105.07
 "2877",905,5,70,3365,"Frambozen",0,"Belgian-Style Fruit Lambic","United States","Belgian and French Ale",40.5929,-105.07
 "2878",905,5,61,401,"New Belgium Trippel Belgian Style Ale",8.5,"Belgian-Style Tripel","United States","Belgian and French Ale",40.5929,-105.07
@@ -2777,7 +2777,7 @@
 "3074",953,3,42,1200,"Dragonhead Stout",4,"American-Style Stout","United Kingdom","North American Ale",59.0697,-3.3135
 "3075",954,11,121,4758,"Orange Blossom Pilsner",6.5,"Fruit Beer","United States","Other Style",28.5265,-81.3827
 "3076",954,3,26,5438,"Orlando Blonde Ale",0,"American-Style Pale Ale","United States","North American Ale",28.5265,-81.3827
-"3077",954,11,121,5136,"Orange Blossom Pilsner <U+D24C>_",11,"Fruit Beer","United States","Other Style",28.5265,-81.3827
+"3077",954,11,121,5136,"Orange Blossom Pilsner Ìâå_",11,"Fruit Beer","United States","Other Style",28.5265,-81.3827
 "3078",955,3,31,4521,"Orlio Seasonal India Pale Ale",5.4,"American-Style India Pale Ale","United States","North American Ale",44.4284,-73.2131
 "3079",955,7,86,4523,"Orlio Seasonal Black Lager",4.5,"German-Style Schwarzbier","United States","German Lager",44.4284,-73.2131
 "3080",956,7,77,5210,"Mama's Little Yella Pils",5.3,"German-Style Pilsener","United States","German Lager",40.2246,-105.268
@@ -2852,7 +2852,7 @@
 "3150",972,7,84,4470,"Paulaner Oktoberfest",6,"German-Style Oktoberfest","Germany","German Lager",48.1391,11.5802
 "3151",972,4,50,4471,"Hefeweizen",5.5,"South German-Style Hefeweizen","Germany","German Ale",48.1391,11.5802
 "3152",972,7,84,1827,"Hacker-Pschorr Original Oktoberfest",0,"German-Style Oktoberfest","Germany","German Lager",48.1391,11.5802
-"3153",972,4,50,1899,"Hefe-Wei<U+D001><U+009F>bier",0,"South German-Style Hefeweizen","Germany","German Ale",48.1391,11.5802
+"3153",972,4,50,1899,"Hefe-WeiÌÄÅübier",0,"South German-Style Hefeweizen","Germany","German Ale",48.1391,11.5802
 "3154",972,7,92,4469,"Salvator",7.9,"German-Style Doppelbock","Germany","German Lager",48.1391,11.5802
 "3155",972,4,55,2183,"Hacker-Pschorr Weisse Bock",0,"South German-Style Weizenbock","Germany","German Ale",48.1391,11.5802
 "3156",972,4,50,1835,"Hacker-Pschorr Weisse",0,"South German-Style Hefeweizen","Germany","German Ale",48.1391,11.5802
@@ -2962,9 +2962,9 @@
 "3274",1016,3,42,2356,"D. Carnegie and Company Porter",5.5,"American-Style Stout","Sweden","North American Ale",60.4877,9.1885
 "3275",1017,7,86,2347,"Schwarz Bier",4.8,"German-Style Schwarzbier","Germany","German Lager",49.6747,8.925
 "3276",1018,3,38,3063,"Alt",4.9,"American-Style Brown Ale","Germany","North American Ale",51.1833,6.4993
-"3277",1019,4,50,1652,"Wei<U+D001><U+009F>bier Mit Feiner Hefe",0,"South German-Style Hefeweizen","Germany","German Ale",48.3153,11.8911
+"3277",1019,4,50,1652,"WeiÌÄÅübier Mit Feiner Hefe",0,"South German-Style Hefeweizen","Germany","German Ale",48.3153,11.8911
 "3278",1019,11,116,4518,"Erdinger Weizen",5.3,"Light American Wheat Ale or Lager","Germany","Other Style",48.3153,11.8911
-"3279",1019,4,55,1900,"Wei<U+D001><U+009F>bier Pikantus",0,"South German-Style Weizenbock","Germany","German Ale",48.3153,11.8911
+"3279",1019,4,55,1900,"WeiÌÄÅübier Pikantus",0,"South German-Style Weizenbock","Germany","German Ale",48.3153,11.8911
 "3280",1020,3,38,1606,"Alt",4.8,"American-Style Brown Ale","Germany","North American Ale",51.2292,6.7925
 "3283",1023,7,90,399,"Aventinus Weizen-Eisbock",12,"Traditional German-Style Bock","Germany","German Lager",48.9175,11.8735
 "3284",1023,4,50,3182,"Weisse Hefe-Weizen",5.4,"South German-Style Hefeweizen","Germany","German Ale",48.9175,11.8735
@@ -3118,7 +3118,7 @@
 "3442",1058,8,95,5466,"River Horse Lager",5,"American-Style Lager","United States","North American Lager",40.3688,-74.9477
 "3443",1059,3,38,3070,"Nut Brown",0,"American-Style Brown Ale","United States","North American Ale",41.85,-87.6501
 "3444",1059,3,26,3076,"India Pale Ale",0,"American-Style Pale Ale","United States","North American Ale",41.85,-87.6501
-"3445",1059,7,84,3074,"M<U+D00C>_rzen",0,"German-Style Oktoberfest","United States","German Lager",41.85,-87.6501
+"3445",1059,7,84,3074,"MÌÄå_rzen",0,"German-Style Oktoberfest","United States","German Lager",41.85,-87.6501
 "3446",1059,7,90,3073,"Doubledecker Doppelbock",0,"Traditional German-Style Bock","United States","German Lager",41.85,-87.6501
 "3447",1059,3,42,3072,"Railroad Stout",0,"American-Style Stout","United States","North American Ale",41.85,-87.6501
 "3448",1059,7,90,3079,"Maibock",0,"Traditional German-Style Bock","United States","German Lager",41.85,-87.6501
@@ -3178,7 +3178,7 @@
 "3503",1072,11,116,4199,"Issaquah Bullfrog Ale",0,"Light American Wheat Ale or Lager","United States","Other Style",44.6202,-124.052
 "3504",1072,3,33,4192,"Santas Private Reserve",6,"American-Style Amber/Red Ale","United States","North American Ale",44.6202,-124.052
 "3505",1072,3,26,4200,"Chamomellow",0,"American-Style Pale Ale","United States","North American Ale",44.6202,-124.052
-"3506",1072,7,77,4198,"<U+D001><f1>ber Pilsner",5.2,"German-Style Pilsener","United States","German Lager",44.6202,-124.052
+"3506",1072,7,77,4198,"ÌÄÅÒber Pilsner",5.2,"German-Style Pilsener","United States","German Lager",44.6202,-124.052
 "3507",1072,2,25,4184,"Mocha Porter / New Porter",5.3,"Porter","United States","Irish Ale",44.6202,-124.052
 "3508",1072,1,5,4213,"Youngers Special Bitter",0,"Extra Special Bitter","United States","British Ale",44.6202,-124.052
 "3509",1072,11,126,4182,"Juniper Pale Ale",5.3,"Herb and Spice Beer","United States","Other Style",44.6202,-124.052
@@ -3321,7 +3321,7 @@
 "3656",1113,8,95,5145,"Scharer's Lager",5,"American-Style Lager","Australia","North American Lager",-34.1855,150.607
 "3657",1114,4,50,1660,"Weissbier",0,"South German-Style Hefeweizen","Germany","German Ale",50.0224,10.83
 "3658",1115,7,92,377,"Doppelbock Dunkel",8.5,"German-Style Doppelbock","Austria","German Lager",47.9904,13.9238
-"3659",1115,7,92,819,"Urbock 23<U+D24C><c1>",9.6,"German-Style Doppelbock","Austria","German Lager",47.9904,13.9238
+"3659",1115,7,92,819,"Urbock 23Ìâå¡",9.6,"German-Style Doppelbock","Austria","German Lager",47.9904,13.9238
 "3660",1115,7,90,396,"Samichlaus Bier 2005",14,"Traditional German-Style Bock","Austria","German Lager",47.9904,13.9238
 "3661",1115,7,90,1349,"Samichlaus Bier 2003",14,"Traditional German-Style Bock","Austria","German Lager",47.9904,13.9238
 "3662",1116,3,42,551,"Stout",5,"American-Style Stout","Austria","North American Ale",47.4097,9.7514
@@ -3333,7 +3333,7 @@
 "3670",1118,3,42,3417,"Rainbow Trout Stout",0,"American-Style Stout","United States","North American Ale",32.803,-96.7699
 "3671",1119,3,31,1109,"IPA",0,"American-Style India Pale Ale","United States","North American Ale",37.9669,-121.783
 "3672",1120,7,86,505,"Schwarzbier",5.3,"German-Style Schwarzbier","Germany","German Lager",48.004,9.6584
-"3673",1120,4,50,504,"Wei<U+D001><U+009F>e",0,"South German-Style Hefeweizen","Germany","German Ale",48.004,9.6584
+"3673",1120,4,50,504,"WeiÌÄÅüe",0,"South German-Style Hefeweizen","Germany","German Ale",48.004,9.6584
 "3674",1121,2,25,2035,"Black Irish Plain Porter",0,"Porter","Canada","Irish Ale",45.1279,-76.13
 "3675",1122,3,38,4254,"Newcastle Brown Ale",4.7,"American-Style Brown Ale","United Kingdom","North American Ale",40.8918,-76.7975
 "3677",1124,3,33,737,"Sequoia Red",0,"American-Style Amber/Red Ale","United States","North American Ale",47.9975,-122.214
@@ -3491,7 +3491,7 @@
 "3841",1173,3,32,5177,"Oak Aged Unearthly Imperial Pale Ale",11,"Imperial or Double India Pale Ale","United States","North American Ale",42.1008,-79.3357
 "3842",1173,3,32,5742,"2xIPA",0,"Imperial or Double India Pale Ale","United States","North American Ale",42.1008,-79.3357
 "3843",1173,3,43,4888,"Choklat",11,"American-Style Imperial Stout","United States","North American Ale",42.1008,-79.3357
-"3844",1173,11,116,5447,"<U+D001><f1>ber Sun Imperial Summer Wheat Ale",8,"Light American Wheat Ale or Lager","United States","Other Style",42.1008,-79.3357
+"3844",1173,11,116,5447,"ÌÄÅÒber Sun Imperial Summer Wheat Ale",8,"Light American Wheat Ale or Lager","United States","Other Style",42.1008,-79.3357
 "3845",1173,1,5,4877,"Southern Tier Harvest Ale",5.7,"Extra Special Bitter","United States","British Ale",42.1008,-79.3357
 "3846",1173,11,116,4071,"Raspberry Wheat",4.5,"Light American Wheat Ale or Lager","United States","Other Style",42.1008,-79.3357
 "3847",1173,8,95,5761,"Farmer's Tan Imperial Pale Lager",9,"American-Style Lager","United States","North American Lager",42.1008,-79.3357
@@ -3603,7 +3603,7 @@
 "3967",1201,3,42,2621,"Highlander Stout",0,"American-Style Stout","United States","North American Ale",39.6318,-75.6628
 "3968",1202,8,96,5541,"Stiegl Leicht",3.3,"American-Style Light Lager","Austria","North American Lager",47.8005,13.0444
 "3969",1202,4,50,80,"Weizengold Hefefein",5.1,"South German-Style Hefeweizen","Austria","German Ale",47.8005,13.0444
-"3970",1202,7,84,5539,"Stiegl Goldbr<U+D00C>_u",4.9,"German-Style Oktoberfest","Austria","German Lager",47.8005,13.0444
+"3970",1202,7,84,5539,"Stiegl GoldbrÌÄå_u",4.9,"German-Style Oktoberfest","Austria","German Lager",47.8005,13.0444
 "3971",1202,7,77,2889,"Columbus Pils",4.9,"German-Style Pilsener","Austria","German Lager",47.8005,13.0444
 "3972",1202,7,90,2888,"Columbus Bock",0,"Traditional German-Style Bock","Austria","German Lager",47.8005,13.0444
 "3973",1203,5,74,5723,"Stateside Saison",0,"French & Belgian-Style Saison","United States","Belgian and French Ale",39.2904,-76.6122
@@ -3667,7 +3667,7 @@
 "4033",1216,8,95,2915,"Lighthouse Amber Lager",0,"American-Style Lager","United States","North American Lager",44.8342,-87.377
 "4034",1216,3,42,2796,"Last Stop Stout",0,"American-Style Stout","United States","North American Ale",44.8342,-87.377
 "4036",1218,4,50,3476,"Hefe Weizen",0,"South German-Style Hefeweizen","United States","German Ale",38.5472,-121.726
-"4037",1218,7,84,3490,"M<U+D00C>_rzen",0,"German-Style Oktoberfest","United States","German Lager",38.5472,-121.726
+"4037",1218,7,84,3490,"MÌÄå_rzen",0,"German-Style Oktoberfest","United States","German Lager",38.5472,-121.726
 "4038",1218,7,90,3241,"Doppelbock",10,"Traditional German-Style Bock","United States","German Lager",38.5472,-121.726
 "4039",1219,3,31,4853,"Lost Sailor",7,"American-Style India Pale Ale","United States","North American Ale",43.3152,-83.7314
 "4040",1219,3,42,4854,"Sully's Irish Stout",4.2,"American-Style Stout","United States","North American Ale",43.3152,-83.7314
@@ -3863,7 +3863,7 @@
 "4236",1265,3,42,253,"Oatmeal Stout",0,"American-Style Stout","United States","North American Ale",37.3362,-121.894
 "4237",1265,8,95,255,"New World Wheat",0,"American-Style Lager","United States","North American Lager",37.3362,-121.894
 "4238",1265,7,90,256,"Maibock",0,"Traditional German-Style Bock","United States","German Lager",37.3362,-121.894
-"4239",1266,5,70,5417,"Timmermans P<U+D00C><c8>che",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8399,4.2475
+"4239",1266,5,70,5417,"Timmermans PÌÄå»che",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8399,4.2475
 "4240",1266,5,70,5420,"Timmermans Kriek",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8399,4.2475
 "4241",1266,5,70,5415,"Timmermans Forest Fruit",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8399,4.2475
 "4242",1266,5,70,5416,"Timmermans Framboise",0,"Belgian-Style Fruit Lambic","Belgium","Belgian and French Ale",50.8399,4.2475
@@ -3880,12 +3880,12 @@
 "4253",1268,4,55,1934,"Weizen Bock",10,"South German-Style Weizenbock","United States","German Ale",44.52,-88.0173
 "4254",1268,3,38,1984,"Boxcar Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",44.52,-88.0173
 "4255",1268,3,31,1543,"Imperial IPA",0,"American-Style India Pale Ale","United States","North American Ale",44.52,-88.0173
-"4256",1268,3,26,1961,"Pale Ale \<U+D00C><e7> la Bushner\""""",0,"American-Style Pale Ale","United States","North American Ale",44.52,-88.0173
+"4256",1268,3,26,1961,"Pale Ale \ÌÄåÁ la Bushner\""""",0,"American-Style Pale Ale","United States","North American Ale",44.52,-88.0173
 "4257",1268,8,95,1807,"Red Lager",0,"American-Style Lager","United States","North American Lager",44.52,-88.0173
 "4258",1268,3,33,3031,"Railyard Ale",0,"American-Style Amber/Red Ale","United States","North American Ale",44.52,-88.0173
 "4259",1268,3,33,3029,"Johnny \Blood\"" McNally Irish Red""",0,"American-Style Amber/Red Ale","United States","North American Ale",44.52,-88.0173
 "4260",1268,4,50,2818,"Dousman Street Wheat",0,"South German-Style Hefeweizen","United States","German Ale",44.52,-88.0173
-"4261",1268,7,84,2039,"March M<U+D00C>_rzen",0,"German-Style Oktoberfest","United States","German Lager",44.52,-88.0173
+"4261",1268,7,84,2039,"March MÌÄå_rzen",0,"German-Style Oktoberfest","United States","German Lager",44.52,-88.0173
 "4262",1268,3,38,1387,"Toasted Oats & Molasses Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",44.52,-88.0173
 "4263",1269,3,33,3737,"Bitter Amber",0,"American-Style Amber/Red Ale","United States","North American Ale",39.7392,-104.985
 "4264",1270,3,31,2885,"IPA",0,"American-Style India Pale Ale","United Kingdom","North American Ale",52.0593,1.1557
@@ -3945,7 +3945,7 @@
 "4320",1286,3,32,5570,"Scratch #20 2009 Apollo Imperial Ale",7,"Imperial or Double India Pale Ale","United States","North American Ale",40.2559,-76.8715
 "4321",1286,7,77,5187,"Scratch #17 2009",5.6,"German-Style Pilsener","United States","German Lager",40.2559,-76.8715
 "4322",1286,2,25,3750,"Dead Reckoning Porter",5.8,"Porter","United States","Irish Ale",40.2559,-76.8715
-"4323",1286,5,61,5718,"Tr<U+D00C>_egs Splinter Beer Gold",12,"Belgian-Style Tripel","United States","Belgian and French Ale",40.2559,-76.8715
+"4323",1286,5,61,5718,"TrÌÄå_egs Splinter Beer Gold",12,"Belgian-Style Tripel","United States","Belgian and French Ale",40.2559,-76.8715
 "4324",1286,7,77,3841,"Sunshine Pils",5.3,"German-Style Pilsener","United States","German Lager",40.2559,-76.8715
 "4325",1286,8,95,3752,"Bavarian Lager",5,"American-Style Lager","United States","North American Lager",40.2559,-76.8715
 "4326",1286,3,31,5833,"Scratch Beer 31 - 2010 Citra Of Brotherly Love IPA",7.4,"American-Style India Pale Ale","United States","North American Ale",40.2559,-76.8715
@@ -3958,7 +3958,7 @@
 "4333",1286,5,67,5617,"Scratch #22 2009",5.5,"Belgian-Style White","United States","Belgian and French Ale",40.2559,-76.8715
 "4334",1286,7,92,3748,"Troegenator Double Bock",8.2,"German-Style Doppelbock","United States","German Lager",40.2559,-76.8715
 "4335",1286,3,35,5278,"Flying Mouflan",9.3,"American-Style Barley Wine Ale","United States","North American Ale",40.2559,-76.8715
-"4336",1286,3,30,5717,"Tr<U+D00C>_egs Splinter Beer Red",11,"American-Style Strong Pale Ale","United States","North American Ale",40.2559,-76.8715
+"4336",1286,3,30,5717,"TrÌÄå_egs Splinter Beer Red",11,"American-Style Strong Pale Ale","United States","North American Ale",40.2559,-76.8715
 "4337",1286,11,116,3749,"Dreamweaver",4.8,"Light American Wheat Ale or Lager","United States","Other Style",40.2559,-76.8715
 "4338",1286,3,38,2376,"Rugged Trail Ale",4.4,"American-Style Brown Ale","United States","North American Ale",40.2559,-76.8715
 "4339",1286,1,21,5063,"Scratch #15 2008",6,"Oatmeal Stout","United States","British Ale",40.2559,-76.8715
@@ -4024,7 +4024,7 @@
 "4403",1307,3,33,4455,"Seigneuriale",7.5,"American-Style Amber/Red Ale","Canada","North American Ale",45.4416,-73.2595
 "4404",1307,5,72,876,"Terrible",10.5,"Other Belgian-Style Ales","Canada","Belgian and French Ale",45.4416,-73.2595
 "4405",1307,3,29,4456,"Chambly Noire",6.2,"Dark American-Belgo-Style Ale","Canada","North American Ale",45.4416,-73.2595
-"4406",1307,5,67,4454,"<ed><U+0080><e4><f3><c1>ph<U+D00C><U+00A9>m<U+D00C><c2>re Pomme",5.5,"Belgian-Style White","Canada","Belgian and French Ale",45.4416,-73.2595
+"4406",1307,5,67,4454,"ÌÄ‰Û¡phÌÄå©mÌÄå¬re Pomme",5.5,"Belgian-Style White","Canada","Belgian and French Ale",45.4416,-73.2595
 "4407",1307,5,66,4044,"Maudite",8,"Belgian-Style Dark Strong Ale","Canada","Belgian and French Ale",45.4416,-73.2595
 "4408",1307,3,26,4042,"11",11,"American-Style Pale Ale","Canada","North American Ale",45.4416,-73.2595
 "4409",1307,5,70,40,"Quelque Chose",8,"Belgian-Style Fruit Lambic","Canada","Belgian and French Ale",45.4416,-73.2595
@@ -4146,9 +4146,9 @@
 "4536",1346,3,38,3204,"Nut Brown Ale",0,"American-Style Brown Ale","United States","North American Ale",41.8506,-87.7937
 "4537",1346,4,50,3210,"Bavarian Weiss",0,"South German-Style Hefeweizen","United States","German Ale",41.8506,-87.7937
 "4538",1346,8,95,3208,"Pilsner",0,"American-Style Lager","United States","North American Lager",41.8506,-87.7937
-"4539",1346,7,84,3206,"M<U+D00C>_rzen",0,"German-Style Oktoberfest","United States","German Lager",41.8506,-87.7937
+"4539",1346,7,84,3206,"MÌÄå_rzen",0,"German-Style Oktoberfest","United States","German Lager",41.8506,-87.7937
 "4540",1346,1,15,3209,"Wee Heavy",0,"Scotch Ale","United States","British Ale",41.8506,-87.7937
-"4541",1347,4,50,3012,"Wei<U+D001><U+009F>e Export / Helle We<U+D001><U+009F>e",0,"South German-Style Hefeweizen","Germany","German Ale",47.794,11.8311
+"4541",1347,4,50,3012,"WeiÌÄÅüe Export / Helle WeÌÄÅüe",0,"South German-Style Hefeweizen","Germany","German Ale",47.794,11.8311
 "4548",1352,11,123,3934,"Imperial Pumpkin Ale",8,"Pumpkin Beer","United States","Other Style",40.6732,-75.2249
 "4549",1352,5,61,3930,"Eleven",11.7,"Belgian-Style Tripel","United States","Belgian and French Ale",40.6732,-75.2249
 "4550",1352,7,84,3922,"AutumnFest",5.4,"German-Style Oktoberfest","United States","German Lager",40.6732,-75.2249
@@ -4203,7 +4203,7 @@
 "4605",1371,3,38,2539,"Lone Mountain Altbier",0,"American-Style Brown Ale","United States","North American Ale",44.6584,-111.1
 "4606",1372,3,31,2545,"Mister Hoppy IPA",0,"American-Style India Pale Ale","United States","North American Ale",39.9619,-105.51
 "4607",1373,1,13,1859,"Norfolk Nog Old Dark Ale",4.6,"Old Ale","United Kingdom","British Ale",52.6842,1.449
-"4608",1374,4,50,4426,"Julius Echter Hefe-Wei<U+D001><U+009F>bier Hell",0,"South German-Style Hefeweizen","Germany","German Ale",49.792,9.915
+"4608",1374,4,50,4426,"Julius Echter Hefe-WeiÌÄÅübier Hell",0,"South German-Style Hefeweizen","Germany","German Ale",49.792,9.915
 "4609",1375,1,13,445,"Bah Humbug",6,"Old Ale","United Kingdom","British Ale",51.7523,-1.2558
 "4610",1375,1,10,1574,"Old Devil",0,"English-Style Pale Mild Ale","United Kingdom","British Ale",51.7523,-1.2558
 "4611",1375,3,42,1598,"Black Wych Stout",0,"American-Style Stout","United Kingdom","North American Ale",51.7523,-1.2558
