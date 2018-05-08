@@ -1,4 +1,4 @@
-#Beer Analysis
+# Beer Analysis
 
 For our project we will look at how alcohol percentage in beer varies by type of beer and region the beer is brewed in. The main issue was that there is no application to be able to look up beer by region that can be categorized by style of beer. 
 
