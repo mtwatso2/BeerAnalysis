@@ -1,4 +1,4 @@
-Beer Analysis
+#Beer Analysis
 
 For our project we will look at how alcohol percentage in beer varies by type of beer and region the beer is brewed in. The main issue was that there is no application to be able to look up beer by region that can be categorized by style of beer. 
 
@@ -10,14 +10,25 @@ beers.csv is the original data, which can be found at: https://data.world/too-ro
 The other .csv files were used to create new variables in the main data set, which after being cleaned was named as: Beers_cleaned.csv. The variables contained in the data set are listed below
 
 Beers_cleaned.csv:
+
 -brewery_id
+
 -cat_id
+
 -style_id
+
 -id
+
 -name
+
 -abv
+
 -style_name
+
 -country
+
 -cat_name
+
 -latitude
+
 -longitude
