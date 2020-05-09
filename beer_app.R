@@ -91,9 +91,6 @@ ui <- fluidPage(
     ),# ends tabPanel1
     tabPanel("Linear Regression", "Linear Regression", 
              
-             beers_cleaned <- read.csv("beers_cleaned.csv", fill = TRUE, stringsAsFactors = FALSE),
-             
-             
              ui <- fluidPage(
                headerPanel("Beer Analysis"), 
                sidebarPanel(
@@ -128,7 +125,7 @@ ui <- fluidPage(
 # SERVER SERVER SERVER SERVER SERVER SERVER SERVER SERVER SERVER SERVER SERVER SERVER
 server <- function(input, output, session) {
   
-  lm1 <- reactive({lm(reformulate(input$IndVar, input$DepVar), data = beers_cleaned)})
+  lm1 <- reactive({lm(reformulate(input$IndVar, input$DepVar), data = beers)})
   
   output$DepPrint <- renderPrint({input$DepVar})
   output$IndPrint <- renderPrint({input$IndVar})
