@@ -97,7 +97,6 @@ ui <- fluidPage(
                  p("Select the inputs for the Dependent Variable"),
                  selectInput(inputId = "DepVar", label = "Dependent Variables", multiple = FALSE, choices = list("abv")),
                  p("Select the inputs for the Independent Variable"),
-                 #selectInput(inputId = "IndVar", label = "Independent Variables", multiple = FALSE, choices = list("brewery_id", "style_id", "cat_id", "latitude", "longitude")),
                  checkboxGroupInput(inputId = "IndVar",
                                     label = "Independent Variables",
                                     choices = list("brewery_id", "style_id", "cat_id", "latitude", "longitude"),
@@ -194,7 +193,7 @@ server <- function(input, output, session) {
   
   
   output$plot <- renderPlot({
-    ggplot(final_subset()) +   #how do I add more reactive functions??
+    ggplot(final_subset()) +   
       geom_boxplot(aes(x = cat_name, y = abv, color = cat_name)) +
       geom_jitter(aes(x = cat_name, y = abv, color = cat_name))
   })
